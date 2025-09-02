@@ -125,7 +125,7 @@
 <svg viewBox="0 0 56 56" id="svg11347817849"><path d="M 26.542 56 C 24.387 43.645 12.23 32.033 0 29.458 L 0 26.396 C 12.307 23.456 24.134 12.764 26.542 0 L 29.604 0 C 31.697 12.437 43.799 23.733 56 26.396 L 56 29.458 C 44.024 31.94 31.624 43.591 29.604 56 Z" fill="var(--token-c99a84af-9d9d-4867-bcd0-8455e9249c96, rgba(240, 240, 240, 0.1)) /* {&quot;name&quot;:&quot;Light 10%&quot;} */"/></svg>
 </div>
     <!-- Start of bodyEnd -->
-     <script defer async src="https://apply.devfolio.co/v2/sdk.js"></script>
+    <script defer async src="https://apply.devfolio.co/v2/sdk.js"></script>
     
     <!-- End of bodyEnd -->
 </body>
